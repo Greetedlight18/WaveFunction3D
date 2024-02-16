@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641275, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -169,12 +169,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dimensions: 20
   tileObjects:
-  - {fileID: 6843077310972279220, guid: 58698e509cc13ac4389f73e653db7b82, type: 3}
-  - {fileID: 2661968908957601399, guid: fcbf43269fd353746a23381bc75cbe74, type: 3}
-  - {fileID: -8102960937033614157, guid: 93a832ceab381fa42bc1f8e3adb14cdf, type: 3}
+  - {fileID: -2162944128081195248, guid: 06150b6566a67f64c91ee6075b1789e7, type: 3}
+  - {fileID: 2234232225300151952, guid: 094217456425f31439f1d7e9566b2088, type: 3}
+  - {fileID: 807249215663112163, guid: 03310ad6dfa3c7940ab8bdfca7337f59, type: 3}
+  - {fileID: -2365443416472309462, guid: dd8429c2b859f5a4c8502c9a8c7d7d12, type: 3}
+  - {fileID: 8011747401844020718, guid: 954f05ab0f118f04a8c148bafbaa0865, type: 3}
+  - {fileID: -2966278299988516538, guid: 184bc7c41ece28246a8e18794db97d97, type: 3}
   gridComponents: []
   cellObj: {fileID: 4708005233751153331, guid: 936abc963f38a804e84760def12a01ee, type: 3}
-  backupTile: {fileID: -8185456594143889917, guid: 6e9830e0a74fc8642b06486b1795d6ad, type: 3}
+  backupTile: {fileID: 8011747401844020718, guid: 954f05ab0f118f04a8c148bafbaa0865, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0

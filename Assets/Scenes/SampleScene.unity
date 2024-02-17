@@ -167,7 +167,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f44b1cd58617ac048b947ff923873a46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dimensions: 20
+  dimensionsX: 5
+  dimensionsY: 20
   tileObjects:
   - {fileID: -2162944128081195248, guid: 06150b6566a67f64c91ee6075b1789e7, type: 3}
   - {fileID: 2234232225300151952, guid: 094217456425f31439f1d7e9566b2088, type: 3}
